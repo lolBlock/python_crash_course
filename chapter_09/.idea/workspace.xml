@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91804ae5-54bc-4e3c-85e0-a00fdf00fda2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/battery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_battery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_cars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/battery.py" beforeDir="false" afterPath="$PROJECT_DIR$/battery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_battery.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_battery.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

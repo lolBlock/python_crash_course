@@ -1,0 +1,9 @@
+运行Anaconda Prompt(或cdm)可以知道用户目录所在文件夹，例如：
+C:\Users\Administrator
+
+在该文件夹新建pip文件夹，再新建pip.txt，改名为pip.ini
+输入以下内容：
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+[install]
+trusted-host = https://pypi.tuna.tsinghua.edu.cn
